@@ -1,0 +1,8 @@
+{
+    "appName": "StayKay",
+    "welcome": "Welcome",
+    "loginToApplication": "Login to Application",
+    "@loginToApplication": {
+        "description": "Login to Application"
+    }
+}
